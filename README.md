@@ -1,5 +1,3 @@
-# PvzTrainer-V1.0
-
 # 🌻 PvZ Trainer V1.0
 
 A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat features like infinite sun, instant cooldowns, and more. Built for fun, experimentation, and modding.
