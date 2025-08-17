@@ -8,22 +8,12 @@ A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat f
 
 - 🌞 Infinite Sun
 - 🧠 Instant Cooldown
-- 🧟 Freeze Zombies
-- 🧨 One-Hit Kill
-- 🧱 Unlock All Plants
-- 🕹️ Toggle Cheats On/Off
-- 💾 Save/Load Trainer State
-- 🧪 Experimental Memory Scan Mode
-
----
-
-## 🛠️ Requirements
-
-- Windows OS (tested on Windows 10)
-- PvZ Game (PopCap version)
-- Admin privileges (for memory access)
-- Python 3.x (if using Python-based version)
-
+- Unlimited Durability
+- Rapid Fire
+- Fast Shooter
+- Unlimited Shop
+- Cash Boost
+  
 ---
 
 ## 📦 Installation
