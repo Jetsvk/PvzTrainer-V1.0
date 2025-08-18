@@ -8,11 +8,11 @@ A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat f
 
 - 🌞 Infinite Sun
 - 🧠 Instant Cooldown
-- Unlimited Durability
-- Rapid Fire
-- Fast Shooter
-- Unlimited Shop
-- Cash Boost
+- 🛡️ Unlimited Durability
+- 🔫 Rapid Fire
+- ⚡ Fast Shooter
+- 🛒 Unlimited Shop
+- 💰 Cash Boost
   
 ---
 
