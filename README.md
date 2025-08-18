@@ -32,5 +32,8 @@ A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat f
 - Open the trainer.
 - Use hotkeys to enable features.
 
+### 📚 Documentation
+- https://youtu.be/bKy_c05729E
+
 ## ⚠️ Disclaimer
 This trainer is for educational and entertainment purposes only.
