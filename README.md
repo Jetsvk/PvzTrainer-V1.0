@@ -20,4 +20,4 @@ A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat f
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/PvZ-Trainer-V1.0.git
+   git clone https://github.com/Jetsvk/PvzTrainer-V1.0
