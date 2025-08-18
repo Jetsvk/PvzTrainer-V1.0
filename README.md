@@ -27,6 +27,7 @@ A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat f
 3. Open PvZ and activate desired cheats.
 
 ## 🧩 Usage
+- Disable Windows Defender
 - Launch PvZ first.
 - Open the trainer.
 - Use hotkeys to enable features.
