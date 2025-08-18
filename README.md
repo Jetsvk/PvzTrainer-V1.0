@@ -22,7 +22,7 @@ A lightweight trainer for *Plants vs. Zombies* (PC version) that enables cheat f
    ```bash
    git clone https://github.com/Jetsvk/PvzTrainer-V1.0
 
-2. Run the trainer executable or launch the Python script.
+2. Run the trainer executable.
 
 3. Open PvZ and activate desired cheats.
 
